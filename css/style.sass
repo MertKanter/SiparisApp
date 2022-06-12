@@ -1,0 +1,601 @@
+$boxcolor : #8b8e94
+$textcolor: #000
+$textcolorwhite: #fff
+$mainfont: Embassy BT
+*
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+    list-style: none
+    border: 0
+    outline: 0
+    text-decoration: none
+    -webkit-font-smoothing: antialiased
+
+html, body
+    background-color: #A5A6F6
+    height: 100%
+    overflow-x: hidden
+
+a
+  text-decoration: none
+
+/* İndex Page Css Start */
+
+#entry-box .col
+    background: linear-gradient(180deg, #EEEBEB 0%, #EEEBEB 21.35%, rgba(236, 221, 221, 0.925497) 41.67%, rgba(230, 191, 191, 0.77053) 61.46%, rgba(227, 171, 171, 0.669205) 79.17%, rgba(223, 148, 148, 0.55) 100%)
+    align-items: center
+    margin-top: 50px
+    border-radius: 30px
+    width: 300px
+    text-align: center
+    align-items: center
+
+#baslik
+     font-family: $mainfont
+     align-items: center
+     font-weight: 400
+     font-size: 4rem
+     color: $textcolor
+     text-align: center
+     margin-top: 10px
+
+#masano
+    margin-top: 3rem
+    border-radius: 10px
+    text-align: center
+#tamam
+    margin-bottom: 5rem
+    margin-top: 5rem
+    width: 8rem
+    height: 3rem
+    border-radius: 30px
+
+.container-index
+  height: auto
+  width: 300px
+  margin: 60px
+  display: flex
+
+/* İndex Page Css End */
+
+/* Hamburger Menu Css Start */
+
+.headerbox
+    background: linear-gradient(180deg, #EEEBEB 0%, #EEEBEB 21.35%, rgba(236, 221, 221, 0.925497) 41.67%, rgba(230, 191, 191, 0.77053) 61.46%, rgba(227, 171, 171, 0.669205) 79.17%, rgba(223, 148, 148, 0.55) 100%)
+    height: 80px
+    width: 100%
+    border-radius: 0 0 30px 30px
+    
+
+.hamburger-container 
+  max-width: 1050px
+  width: 90%
+  margin: auto
+
+
+.navbar 
+  width: 40%
+  z-index: 999
+
+.nav-container 
+  display: flex
+  justify-content: space-between
+  align-items: center
+  height: 62px
+
+
+.navbar .menu-items 
+  display: flex
+
+.navbar .nav-container li 
+  list-style: none
+
+
+.navbar .nav-container a 
+  text-decoration: none
+  color: #0e2431
+  font-weight: 500
+  font-size: 1.2rem
+  padding: 0.7rem
+
+
+.navbar .nav-container a:hover
+    font-weight: bolder
+
+
+.nav-container 
+  display: block
+  position: relative
+  height: 60px
+
+
+.nav-container .checkbox 
+  position: absolute
+  display: block
+  height: 32px
+  width: 32px
+  top: 20px
+  left: 20px
+  z-index: 5
+  opacity: 0
+  cursor: pointer
+
+
+.nav-container .hamburger-lines 
+  display: block
+  height: 26px
+  width: 32px
+  position: absolute
+  top: 17px
+  left: 20px
+  z-index: 2
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+
+
+.nav-container .hamburger-lines .line 
+  display: block
+  height: 4px
+  width: 100%
+  border-radius: 10px
+  background: #0e2431
+
+
+.nav-container .hamburger-lines .line1 
+  transform-origin: 0% 0%
+  transition: transform 0.4s ease-in-out
+
+
+.nav-container .hamburger-lines .line2 
+  transition: transform 0.2s ease-in-out
+
+
+.nav-container .hamburger-lines .line3 
+  transform-origin: 0% 100%
+  transition: transform 0.4s ease-in-out
+
+
+.navbar .menu-items 
+  padding-top: 120px
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5)
+  height: 100vh
+  width: 100%
+  transform: translate(-150%)
+  display: flex
+  flex-direction: column
+  margin-left: -30px
+  transition: transform 0.5s ease-in-out
+  text-align: center
+
+
+.navbar .menu-items li 
+  margin-bottom: 1.2rem
+  font-size: 1.5rem
+  font-weight: 500
+
+
+.nav-container input[type="checkbox"]:checked ~ .menu-items 
+  transform: translateX(0)
+
+
+.nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line1 
+  transform: rotate(45deg)
+
+
+.nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line2 
+  transform: scaleY(0)
+
+
+.nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line3 
+  transform: rotate(-45deg)
+
+
+.nav-container input[type="checkbox"]:checked ~ .logo
+  display: none
+
+/* Hamburger Menu Css End */
+
+/* Header H1 Css Start */
+#restoran-isim
+    height: auto
+    width: 350px
+    z-index: 0
+    position: relative
+    bottom: 75px
+    margin: auto
+#restoran-isim h1
+    font-family: $mainfont
+    font-weight: 400
+    font-size: 3rem
+    text-align: center    
+/* Header H1 Css End */
+
+/* Bilgi Box Css Start */
+#bilgi-box
+    background: linear-gradient( 360deg, rgb(228,221,228) 0%, rgb(215,193,213) 44%, rgb(202,164,197) 76%)
+    width: 330px
+    height: 80px
+    position: relative
+    bottom: 50px
+    margin: auto
+    border-radius: 30px
+    text-align: center
+    font-family: $mainfont
+#bilgi-box h3
+    font-size: 2rem
+    font-weight: 400
+
+#bilgi-box p
+    font-size: 1.6rem
+    font-weight: 400
+/* Bilgi Box Css End */
+
+/* Container Css Start */
+.container
+    
+    width: auto
+    height: 180px
+    display: flex
+    align-items: center
+
+.container-item
+    width: 150px
+    height: 150px
+    border-radius: 30px
+    text-align: center
+
+#container-item-menu
+    @extend .container-item
+    
+    background-image: url(../img/menu.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 250px
+
+#container-item-siparis-kontrol
+    @extend .container-item
+    
+    background-image: url(../img/siparis-kontrol.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 180px
+
+#container-item-hesap-kontrol
+    @extend .container-item
+    
+    background-image: url(../img/hesap-kontrol.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 230px
+
+#container-item-hesap-isteme
+    @extend .container-item
+    
+    background-image: url(../img/hesap-isteme.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 250px   
+
+#container-item-nakit
+    @extend .container-item
+    
+    background-image: url(../img/nakit.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 250px
+
+#container-item-kredi-karti
+    @extend .container-item
+    
+    background-image: url(../img/kredi-karti.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 250px    
+
+#container-item-yemek-karti
+    @extend .container-item
+    
+    background-image: url(../img/yemek-karti.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 260px   
+
+#container-item-yemek-fisi
+    @extend .container-item
+    
+    background-image: url(../img/yemek-fisi.jpg)
+    background-attachment: scroll
+    background-position: center
+    background-repeat: no-repeat
+    background-size: 180px   
+
+.menu-baslik
+    position: relative
+    top: 35px
+    font-family: $mainfont
+    color: $textcolorwhite
+    font-size: 3rem
+    text-shadow: -5px 1px 2px #000;
+
+.text-settings
+  font-size: 2.5rem
+  font-weight: 500
+  top: 10px
+  
+.overlay
+    background-color: RGBA(255, 255, 255, 1)
+    height: 110px
+    border-radius: 30px
+
+/* Container Css End */
+
+/* Menu Css Start */
+
+.list-group
+  width: 350px
+  border-radius: 30px
+  
+
+.list-group-item
+  background-color: rgba(200, 163, 170, 0.80)
+  color: $textcolor
+  font-family: $mainfont
+  font-size: 2rem
+  border-style: none
+
+.list-group-item:hover
+  background-color: rgba(70, 120, 120, 1)
+  color: $textcolorwhite
+/*Min-Width 768px CSS start*/
+@media screen and( min-width:767px  )
+  #entry-box .col
+    width: 400px
+    height: 500px
+    position: relative
+    left: 45%
+    
+  #baslik
+    font-size: 5rem
+
+  #masano
+    width: 200px
+    height: 30px
+    margin-top: 5rem
+    text-align: center
+    font-size: 20px
+
+  #tamam
+    width: 10rem
+    height: 4rem
+    font-size: 20px
+  
+  #bilgi-box
+    width: 400px
+    height: 120px
+
+  #bilgi-box h3
+    font-size: 3rem
+
+  #bilgi-box p
+    font-size: 2rem
+    
+  #restoran-isim h1
+    font-size: 4rem
+
+  .menu-baslik
+    position: relative
+    top: 35px
+    font-size: 4rem
+
+  .text-settings
+    font-size: 3.5rem
+    font-weight: 500
+    top: 10px
+  
+
+  .container
+    width: auto
+    height: 210px
+
+  .container-item
+    width: 200px
+    height: 200px
+    border-radius: 30px
+    text-align: center
+
+  #container-item-menu
+    background-size: 350px
+
+  #container-item-siparis-kontrol
+    background-size: 300px
+
+  #container-item-hesap-kontrol
+    background-size: 300px
+
+  #container-item-hesap-isteme
+    background-size: 300px   
+
+  #container-item-nakit
+    background-size: 300px
+
+  #container-item-kredi-karti
+    background-size: 300px    
+
+  #container-item-yemek-karti
+    background-size: 350px   
+
+  #container-item-yemek-fisi
+    background-size: 250px   
+  
+  
+
+/*Min-Width 768px CSS End*/
+/*Min-Width 1024px CSS Start*/
+
+@media screen and( min-width:1024px  )
+  #entry-box .col
+    width: 400px
+    height: 500px
+    position: relative
+    left: 300px
+    
+  #baslik
+    font-size: 5rem
+
+  #masano
+    width: 200px
+    height: 30px
+    margin-top: 5rem
+    text-align: center
+    font-size: 20px
+
+  #tamam
+    width: 10rem
+    height: 4rem
+    font-size: 20px
+  #bilgi-box
+    width: 400px
+    height: 120px
+
+  #bilgi-box h3
+    font-size: 3.3rem
+
+  #bilgi-box p
+    font-size: 2.2rem
+    
+  #restoran-isim h1
+    font-size: 4rem
+
+  .menu-baslik
+    position: relative
+    top: 70px
+    font-size: 4rem
+
+  .text-settings
+    font-size: 3.5rem
+    font-weight: 500
+    top: 10px
+  
+  .container
+    width: auto
+    height: 250px
+
+  .container-item
+    width: 230px
+    height: 230px
+    border-radius: 30px
+    text-align: center
+
+  #container-item-menu
+    background-size: 350px
+
+  #container-item-siparis-kontrol
+    background-size: 330px
+
+  #container-item-hesap-kontrol
+    background-size: 350px
+
+  #container-item-hesap-isteme
+    background-size: 350px   
+
+  #container-item-nakit
+    background-size: 350px
+
+  #container-item-kredi-karti
+    background-size: 350px    
+
+  #container-item-yemek-karti
+    background-size: 400px   
+
+  #container-item-yemek-fisi
+    background-size: 280px   
+  
+/*Min-Width 1024px CSS End*/
+/* */
+@media screen and( min-width:1440px  )
+  #entry-box .col
+    width: 500px
+    height: 600px
+    position: relative
+    left: 700px
+    
+  #baslik
+    font-size: 6rem
+
+  #masano
+    width: 300px
+    height: 40px
+    margin-top: 5rem
+    text-align: center
+    font-size: 20px
+
+  #tamam
+    width: 11rem
+    height: 5rem
+    font-size: 20px
+
+  #bilgi-box
+    width: 600px
+    height: 180px
+
+  #bilgi-box h3
+    font-size: 5rem
+
+  #bilgi-box p
+    font-size: 3rem
+    
+  #restoran-isim h1
+    font-size: 4rem
+
+  .menu-baslik
+    position: relative
+    top: 70px
+    font-size: 10rem
+
+  .text-settings
+    font-size: 8.5rem
+    font-weight: 500
+    top: 10px
+  
+  .container
+    width: auto
+    height: 550px
+
+  .container-item
+    width: 500px
+    height: 500px
+    border-radius: 30px
+    text-align: center
+
+  #container-item-menu
+    background-size: 800px
+
+  #container-item-siparis-kontrol
+    background-size: 700px
+
+  #container-item-hesap-kontrol
+    background-size: 800px
+
+  #container-item-hesap-isteme
+    background-size: 800px   
+
+  #container-item-nakit
+    background-size: 800px
+
+  #container-item-kredi-karti
+    background-size: 800px    
+
+  #container-item-yemek-karti
+    background-size: 900px
+
+  #container-item-yemek-fisi
+    background-size: 800px 

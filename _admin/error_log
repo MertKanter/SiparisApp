@@ -1,0 +1,104 @@
+[07-Apr-2022 00:01:37 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:01:37 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:01:37 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:05:36 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:05:36 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:05:36 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:06:02 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:06:02 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:06:02 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 2
+[07-Apr-2022 00:10:02 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:10:02 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:10:02 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:10:03 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:10:03 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:10:03 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:00 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:00 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:00 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:05 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:05 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:05 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:13 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:13 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:13 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:27 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:27 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:27 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:28 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:28 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:28 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:32 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:32 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:32 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:37 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:37 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:37 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:41 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:41 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:41 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:53 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:53 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:11:53 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:20 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:20 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:20 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:21 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:21 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:21 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:24 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:24 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:24 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:24 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:13:24 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:13:24 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 6
+[07-Apr-2022 00:13:32 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:32 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:32 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:32 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:13:32 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:13:32 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 6
+[07-Apr-2022 00:13:57 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:57 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:57 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:13:57 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:13:57 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:13:57 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 6
+[07-Apr-2022 00:14:25 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:25 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:25 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:25 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:14:25 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:14:25 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 6
+[07-Apr-2022 00:14:27 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:27 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:27 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:27 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:14:27 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:14:27 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 6
+[07-Apr-2022 00:14:27 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 12
+[07-Apr-2022 00:14:29 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:29 Europe/Istanbul] PHP Warning:  include(..db.php): failed to open stream: No such file or directory in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:29 Europe/Istanbul] PHP Warning:  include(): Failed opening '..db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 3
+[07-Apr-2022 00:14:29 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:14:29 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 5
+[07-Apr-2022 00:14:29 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 6
+[07-Apr-2022 00:14:29 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/_admin/index.php on line 12
+[07-Apr-2022 01:15:28 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[07-Apr-2022 01:15:40 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[07-Apr-2022 01:40:59 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[07-Apr-2022 15:17:38 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[07-Apr-2022 18:06:00 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[07-Apr-2022 18:06:05 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[07-Apr-2022 18:06:11 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[07-Apr-2022 18:06:14 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:17:15 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:17:15 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:17:21 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:17:21 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:21:13 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:21:13 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:23:15 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:23:15 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:23:26 Europe/Istanbul] PHP Notice:  Undefined index: tur in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8
+[14-Apr-2022 15:23:26 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/u0078194/mertkanter.lupusoft.com/_admin/urunler.php on line 8

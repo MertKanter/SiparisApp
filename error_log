@@ -1,0 +1,163 @@
+[06-Apr-2022 23:09:32 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 5
+[06-Apr-2022 23:21:45 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:21:45 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:21:45 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:21:48 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:21:48 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:21:48 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:17 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:17 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:17 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:17 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:17 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:17 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:18 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:18 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:18 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:18 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:18 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:18 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:26:19 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 60
+[06-Apr-2022 23:27:29 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:27:29 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:27:29 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:27:30 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:27:30 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:27:30 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:27:31 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:27:31 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:27:31 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:28:16 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ')' in /home/u0078194/mertkanter.lupusoft.com/db.php on line 2
+[06-Apr-2022 23:28:17 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ')' in /home/u0078194/mertkanter.lupusoft.com/db.php on line 2
+[06-Apr-2022 23:28:29 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:28:29 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:28:29 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:29:13 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ')' in /home/u0078194/mertkanter.lupusoft.com/db.php on line 2
+[06-Apr-2022 23:29:18 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ')' in /home/u0078194/mertkanter.lupusoft.com/db.php on line 2
+[06-Apr-2022 23:29:28 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:28 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:28 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:28 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:29:31 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:31 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:31 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:31 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:29:33 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:33 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:33 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:33 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:29:37 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:43 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:54 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:55 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:55 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:59 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:29:59 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:59 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:29:59 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:30:04 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:30:04 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:04 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:04 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:30:10 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:30:10 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:10 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:10 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:30:14 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:30:14 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:14 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:14 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:39 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:30:40 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:30:40 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:40 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:30:40 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:06 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:06 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:06 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:06 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:27 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:27 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:27 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:27 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:28 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:28 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:28 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:28 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:30 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:30 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:30 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:30 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:31 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:31 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:31 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:31 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:32 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:33 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:33 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:33 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:33 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:33:34 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:33:34 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:34 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:33:34 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:34:56 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:34:56 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 58
+[06-Apr-2022 23:34:56 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:35:10 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:10 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:35:12 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:12 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:35:12 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:12 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:35:12 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:12 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:35:17 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:17 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:17 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:17 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:21 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:21 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:35:27 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:27 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[06-Apr-2022 23:35:30 Europe/Istanbul] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/u0078194/mertkanter.lupusoft.com/db.php on line 3
+[06-Apr-2022 23:35:30 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u0078194/mertkanter.lupusoft.com/menu.php on line 59
+[07-Apr-2022 00:30:13 Europe/Istanbul] PHP Notice:  Undefined variable: ayarlar_satir in /home/u0078194/mertkanter.lupusoft.com/index.php on line 33
+[07-Apr-2022 00:30:13 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/u0078194/mertkanter.lupusoft.com/index.php on line 33
+[07-Apr-2022 00:30:16 Europe/Istanbul] PHP Notice:  Undefined variable: ayarlar_satir in /home/u0078194/mertkanter.lupusoft.com/index.php on line 33
+[07-Apr-2022 00:30:16 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/u0078194/mertkanter.lupusoft.com/index.php on line 33
+[07-Apr-2022 00:30:18 Europe/Istanbul] PHP Notice:  Undefined variable: ayarlar_satir in /home/u0078194/mertkanter.lupusoft.com/index.php on line 33
+[07-Apr-2022 00:30:18 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/u0078194/mertkanter.lupusoft.com/index.php on line 33
